@@ -2,7 +2,7 @@
 I'm Reece Louch and I am a Software Engineer from London.
 
 [![Reece's github stats](https://github-readme-stats.vercel.app/api?username=rlouch&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=rlouch&theme=tokyonight)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=rlouch&theme=tokyonight&layout=compact)
 
 ## Languages:
 - <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
