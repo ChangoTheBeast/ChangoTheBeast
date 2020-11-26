@@ -24,4 +24,5 @@ I'm Reece Louch and I am a Software Engineer from London.
 ## Socials:
 - [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/reece-louch-966a63184/)
 - [![Steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ChangoTheBeast/)
-- ![BattleNet](https://img.shields.io/badge/battle.net%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white)
+- ![BattleNet](https://img.shields.io/badge/battle.net%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white) - 
+Chango#21621
