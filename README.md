@@ -1,6 +1,6 @@
 ### Hello there 👋
 I am a Software Engineer from London primarily focused in Java.
-I'm interested in learning other languages and technologies and here are a few that I've used.
+I'm proficient in other languages and technologies including the following:
 
 [![Reece's github stats](https://github-readme-stats.vercel.app/api?username=ChangoTheBeast&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangoTheBeast&theme=tokyonight&layout=compact)
